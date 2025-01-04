@@ -36,6 +36,6 @@ jobs:
     - name: Apply Terraform
       run: terraform apply -auto-approve
       env:
-        AWS_ACCESS_KEY_ID: "AKIAUSJEUEOS3SEX5USZ"
-        AWS_SECRET_ACCESS_KEY: "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"
+        AWS_ACCESS_KEY_ID: "AKIARNSOXOTTAKHCTDUJ"
+        AWS_SECRET_ACCESS_KEY: "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"
         AWS_DEFAULT_REGION: "us-east-1"
